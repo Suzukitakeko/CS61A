@@ -1,2 +1,2 @@
 # CS61A
-my hw lab proj and disc in cs61a
+hw lab proj and disc used in cs61a
